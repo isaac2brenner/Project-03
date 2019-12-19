@@ -1,0 +1,21 @@
+.movie {
+    cursor:pointer;
+}
+.movie:hover {
+  
+    background-color: #efede8;
+}
+img{
+	height: 204px;
+}
+.heading h1{
+	display: inline-block;
+	padding-left: 30px;
+}
+.selected{
+	background-color: #efede8;
+}
+small{
+	position: relative;
+	left: 32px;
+}
